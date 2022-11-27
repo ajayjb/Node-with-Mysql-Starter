@@ -1,0 +1,16 @@
+{
+  "name": "nodewithsql",
+  "version": "1.0.0",
+  "description": "nodewithsql",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "ajay jb",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "cors": "^2.8.5"
+  }
+}
